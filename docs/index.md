@@ -1,5 +1,5 @@
 ---
-title: IBM Automation Platinum Demos
+title: IBM Integration Platinum Demos
 layout: index
 itautomation-button-class: header-button
 businessautomation-button-class: header-button
