@@ -1,2 +1,2 @@
-# platinum-demos-integration
-IBM Platinum Demos Integration documentation
+# platinum-demos
+IBM Platinum Demos documentation
