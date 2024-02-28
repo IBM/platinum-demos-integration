@@ -18,8 +18,7 @@ Let’s get started!
 
 (Demo intro slides <a href="https://ibm.box.com/s/quzwd2gvn7zbo9oo19xi1o05gtdlvmwj" target="_blank" rel="noreferrer">here</a>)
 
-(Printer-ready PDF of demo script <a href="https://ibm.box.com/s/jsz9v4mva1jdz7gg1fls3xk4rhgiezvh" target="_blank" rel="noreferrer">here</a>)
-
+(Printer-ready PDF of demo script <a href="https://ibm.box.com/s/od7x5rm0hz2j3ix4ztzq3obj3j6jnpm9" target="_blank" rel="noreferrer">here</a>)
 <br/><br/>
 
 </details>
